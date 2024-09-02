@@ -1,0 +1,14 @@
+$(document).ready(function(){
+   $(".toggle1").click(function(){
+    $(".div661").toggle();
+  });
+  $(".toggle2").click(function(){
+    $("#div662").toggle();
+  });
+  $(".toggle3").click(function(){
+    $("#div667").toggle();
+  });
+  $(".btn-976").click(function(){
+    $(".div-33").hide();
+  });
+});

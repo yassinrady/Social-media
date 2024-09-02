@@ -1,0 +1,42 @@
+@media (max-width: 700px) and (min-width: 0px){
+   .nav{
+    display: none;
+   }
+   .menu-2{
+    display: block!important;
+    text-align: center;
+    font-weight: 600!important;
+    padding-top: 200px;
+   }
+   .nav-link2{
+     display: none;
+   }
+   .nav-link{
+      display: none;
+   }
+   .image-7{
+      display: none;
+   }
+   .nav-item2{
+      padding: 0!important;
+   }
+   .menu{
+    display: none!important;
+   }
+   .nav-link4{
+      display: block;
+   }
+   .div-879{
+      display: none;
+   }
+   .btn-90{
+      width: 100%;
+   }
+   .btn-91{
+      width: 100%;
+      margin-top: 15px!important;
+   }
+   .div-33{
+      display: none;
+   }
+}
