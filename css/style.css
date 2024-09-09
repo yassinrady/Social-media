@@ -12,6 +12,18 @@
     background-color: gainsboro!important;
     color: #000!important;
 }
+ .nav-link6{
+    color: #fff;
+    padding: 26px;
+    padding-left: 25px!important;
+    font-size: 17px;
+    display: block;
+    padding-right: 25px!important;
+}
+.nav-link6:hover{
+    background-color: #ccc;
+    color: #000;
+ }
 .navbar{
     margin: 0px!important;
 }
